@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilge Nur Bekar</h1>
-<h3 align="center">Computer Engineering Student from Türkiye</h3>
+<h3 align="center">Computer Engineering from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
